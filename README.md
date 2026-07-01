@@ -21,8 +21,8 @@ Selamat datang di halaman informasi jadwal ujian. Harap perhatikan tanggal, jam,
 
 | Hari & Tanggal | Waktu (WIB) | Mata Pelajaran / Kuliah | Kelas | Ruangan | Pengawas |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Senin, 6 Juli 2026** | 08:00 - 09:30 | Fisika Teknik | Info 1-4 | Ruang INF 1-4 | Sahrani Somadayo, M.Cs |
-| | 10:00 - 11:30 | Multimedia | Info 1-4 | Ruang INF 1-4 | M Dzikrullah Suratin, M.Kom |
+| **Senin, 6 Juli 2026** | 08:00 - 09:30 | Multimedia | Info 1-4 | Ruang INF 1-4 | M Dzikrullah Suratin, M.Kom |
+
 | **Selasa, 7 Juli 2026** | 08:00 - 09:30 | Stuktur Data | Info 1-4  | Ruang INF 1-4 | Abdul Haris Muhammad, M.Kom |
 | | 10:00 - 11:30 | Organisasi Dan Arsitektur Komputer | Info 1-4| Ruang INF 1-4 | Agil Assagaf, M.Kom |
 
