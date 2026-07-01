@@ -1,5 +1,5 @@
 # Jadwal-UAS-Genap-TA-2025-2026
-# 📅 Jadwal Ujian Akhir Semester (UAS) Genap-2025-2026
+# 📅 TEKNIK INFORMATIKA-Jadwal Ujian Akhir Semester (UAS) Genap-2025-2026 
 
 
 Selamat datang di halaman informasi jadwal ujian. Harap perhatikan tanggal, jam, dan ruang ujian dengan teliti.
